@@ -7,3 +7,6 @@ export const VIEW = <svg viewBox="0 0 24 24" aria-hidden="true" class="r-4qtqp9 
 
 export const KZ_IMG_PATH = require('./Kazakhstan.png');
 export const MU_IMG_PATH = require('./MU.png');
+export const Ereke_IMG_PATH = require('./Ereke.jpg');
+export const Arsen_IMG_PATH = require('./Arsen.jpg');
+export const Damir_IMG_PATH = require('./Damir.jpg');
